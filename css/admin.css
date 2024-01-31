@@ -1,0 +1,24 @@
+#Update {
+    display: none;
+}
+
+.form-group {
+    display: flex;
+}
+
+.form-group .a-text {
+    max-width: 15%;
+    text-align: center;
+}
+
+.tags {
+    display: inline-block;
+    background-color: #f8f5f5;
+    margin-left: 5px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+tbody tr:nth-child(odd) {
+    background-color: #e9e6e6;
+}
